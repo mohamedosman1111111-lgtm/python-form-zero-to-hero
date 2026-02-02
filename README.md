@@ -44,5 +44,5 @@ These assignments represent my journey from complete beginner to someone who can
 ## 🤝 Let's Connect
 I'm always looking to learn and collaborate! Feel free to reach out:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed-fawzy-a38822393/?spm=a2ty_o01.29997173.0.0.221e5171DcZfqp)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedosman1111111-lgtm)
