@@ -1,5 +1,5 @@
 # python-form-zero-to-hero
-<br>Hello, Iam Mohamed i had started learn programing befoer 2 years and i did my first project on c++ after that i start to learn pyton from zero <br>
+<br>Hello, Iam Mohamed i had started learn programing befoer 2 years and i did my first project on c++ it was about Quran PlayList after that i start to learn pyton from zero <br>
 
 **and here is 10 problems that saw the contect i learned and what i can do**
 <br>**its Include :**<br>
