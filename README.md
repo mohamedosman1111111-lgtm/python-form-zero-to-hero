@@ -17,16 +17,16 @@ This repository contains 10 practical Python assignments that demonstrate my und
 
 | Assignment | Concept | Code | Demo |
 |------------|---------|------|------|
-| 1 | List operations & sorting | [View](assignments/assignment1/main.py) | [README](assignments/assignment1/README.md) |
-| 2 | List manipulation functions | [View](assignments/assignment2/main.py) | [README](assignments/assignment2/README.md) |
-| 3 | Nested lists & data processing | [View](assignments/assignment3/main.py) | [README](assignments/assignment3/README.md) |
-| 4 | List methods & string manipulation | [View](assignments/assignment4/main.py) | [README](assignments/assignment4/README.md) |
-| 5 | Conditional logic & user input | [View](assignments/assignment5/main.py) | [README](assignments/assignment5/README.md) |
-| 6 | Loops & data analysis | [View](assignments/assignment6/main.py) | [README](assignments/assignment6/README.md) |
-| 7 | Advanced list operations | [View](assignments/assignment7/main.py) | [README](assignments/assignment7/README.md) |
-| 8 | Game development & user interaction | [View](assignments/assignment8/main.py) | [README](assignments/assignment8/README.md) |
-| 9 | Menu-driven applications | [View](assignments/assignment9/main.py) | [README](assignments/assignment9/README.md) |
-| 10 | String manipulation & iteration | [View](assignments/assignment10/main.py) | [README](assignments/assignment10/README.md) |
+| 1 | List operations & sorting | [View](assignments/assignment1.py) | [README](assignments/assignment1.py) |
+| 2 | List manipulation functions | [View](assignments/assignment2.py) | [README](assignments/assignment2.py) |
+| 3 | Nested lists & data processing | [View](assignments/assignment3.py) | [README](assignments/assignment3.py) |
+| 4 | List methods & string manipulation | [View](assignments/assignment4.py) | [README](assignments/assignment4.py) |
+| 5 | Conditional logic & user input | [View](assignments/assignment5.py) | [README](assignments/assignment5.py) |
+| 6 | Loops & data analysis | [View](assignments/assignment6.py) | [README](assignments/assignment6.py) |
+| 7 | Advanced list operations | [View](assignments/assignment7.py) | [README](assignments/assignment7.py) |
+| 8 | Game development & user interaction | [View](assignments/assignment8.py) | [README](assignments/assignment8.py) |
+| 9 | Menu-driven applications | [View](assignments/assignment9.py) | [README](assignments/assignment9.py) |
+| 10 | String manipulation & iteration | [View](assignments/assignment10.py) | [README](assignments/assignment10.py) |
 
 ## 🚀 How to Run
 1. Clone this repository
